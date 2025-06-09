@@ -1,0 +1,8 @@
+{
+  "app_name": "AI interviewer",
+  "app_description": "Ứng dụng phỏng vấn AI giúp bạn luyện tập phỏng vấn và cải thiện kỹ năng trả lời câu hỏi phỏng vấn.",
+  "welcome_message": "Chào mừng bạn đến với AI Interviewer!",
+  "start_button": "Bắt đầu phỏng vấn",
+  "settings": "Cài đặt",
+  "language": "Ngôn ngữ"
+}

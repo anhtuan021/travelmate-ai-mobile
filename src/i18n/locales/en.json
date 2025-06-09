@@ -1,0 +1,8 @@
+{
+  "app_name": "AI Interviewer",
+  "app_description": "AI Interviewer helps you practice interviews and improve your answers to interview questions.",
+  "welcome_message": "Welcome to AI Interviewer!",
+  "start_button": "Start Interview",
+  "settings": "Settings",
+  "language": "Language"
+}
