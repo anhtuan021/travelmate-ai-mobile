@@ -8,7 +8,7 @@ export default function SettingsScreen() {
   return (
     <SafeAreaView>
       <View>
-        <Text style={{ color: isDark ? 'white' : 'black' }}>Anh yeu em</Text>
+        <Text style={{ color: isDark ? 'white' : 'black' }}>Haha</Text>
       </View>
     </SafeAreaView>
   );
